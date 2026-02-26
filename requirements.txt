@@ -1,0 +1,22 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+ccxt>=4.0.0
+firebase-admin>=6.2.0
+scikit-learn>=1.3.0
+ta-lib>=0.4.0
+
+# Data processing & ML
+joblib>=1.3.0
+scipy>=1.11.0
+statsmodels>=0.14.0
+
+# API & Web
+requests>=2.31.0
+websocket-client>=1.6.0
+
+# Utilities
+python-dotenv>=1.0.0
+loguru>=0.7.0
+pyyaml>=6.0
+pytz>=2023.3
